@@ -1,0 +1,2 @@
+evanC -- 10/3/25 12:40
+- added json that stores pokemon name based on an index
